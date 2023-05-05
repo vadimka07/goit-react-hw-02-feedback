@@ -1,5 +1,5 @@
 import React from "react";
-import { Ul, StatisticsResultUl } from "./Statistics.styled";
+import { StatisticsResultUl } from "./Statistics.styled";
 import PropTypes from "prop-types";
 
 
